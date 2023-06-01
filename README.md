@@ -1,6 +1,6 @@
 <h1 align="center"> Calculadora Fibonacci </h1>
 
-![](https://raw.githubusercontent.com/hyanguimaraes/Avaliacao_Glie/Calculadora_Fibonacci)
+![](https://raw.githubusercontent.com/hyanguimaraes/Avaliacao_Glie/main/Calculadora_Fibonacci)
 
 ![](https://img.shields.io/github/forks/hyanguimaraes/Avaliacao_Glie?style=social) ![](https://img.shields.io/github/last-commit/hyanguimaraes/Avaliacao_Glie?style=plastic)
 
